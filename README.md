@@ -1,2 +1,2 @@
-# project
+# Project
 Yandex Academy project
