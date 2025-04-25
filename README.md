@@ -10,4 +10,3 @@ Yandex Lyceum project
 ### Authors
 * Kazeev Egor
 * Tokarev Ruslan
-* Demochkin Dmitry
